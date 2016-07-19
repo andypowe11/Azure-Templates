@@ -1,9 +1,9 @@
 # Very simple deployment of an Linux VM
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/andypowe11/Azure-Templates/master/Simple-Ubuntu/azuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fandypowe11%2FAzure-Templates%2Fmaster%2FSimple-Ubuntu%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/andypowe11/Azure-Templates/master/Simple-Ubuntu/azuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fandypowe11%2FAzure-Templates%2Fmaster%2FSimple-Ubuntu%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
