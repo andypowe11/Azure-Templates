@@ -301,7 +301,7 @@
                         "name": "Default",
                         "capacity": {
                             "minimum": "1",
-                            "maximum": "2",
+                            "maximum": "5",
                             "default": "1"
                         },
                         "rules": [
