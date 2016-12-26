@@ -41,7 +41,7 @@
         },
         "dbAdministratorLogin": {
             "type": "string",
-            "defaultValue": "admin",
+            "defaultValue": "umbscaladmin",
             "metadata": {
                 "description": "SQL Azure DB administrator  user login"
             }
@@ -73,7 +73,7 @@
         },
         "nonAdminDatabaseUsername": {
             "type": "string",
-            "defaultValue": "umbraco",
+            "defaultValue": "umbscal",
             "metadata": {
                 "description": "Non-admin Database User. Must be Unique"
             }
