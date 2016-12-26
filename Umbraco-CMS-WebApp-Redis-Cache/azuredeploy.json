@@ -4,6 +4,7 @@
     "parameters": {
         "appName": {
             "type": "string",
+            "defaultValue": "ap-umb-scal",
             "metadata": {
                 "description": "Name of azure web app"
             }
@@ -33,12 +34,14 @@
         },
         "dbServerName": {
             "type": "string",
+            "defaultValue": "ap-umb-scal-db-server",
             "metadata": {
                 "description": "SQL Azure DB Server name"
             }
         },
         "dbAdministratorLogin": {
             "type": "string",
+            "defaultValue": "admin",
             "metadata": {
                 "description": "SQL Azure DB administrator  user login"
             }
@@ -51,6 +54,7 @@
         },
         "dbName": {
             "type": "string",
+            "defaultValue": "ap-umb-scal-db",
             "metadata": {
                 "description": "Database Name"
             }
@@ -69,6 +73,7 @@
         },
         "nonAdminDatabaseUsername": {
             "type": "string",
+            "defaultValue": "umbraco",
             "metadata": {
                 "description": "Non-admin Database User. Must be Unique"
             }
@@ -94,6 +99,7 @@
         },
         "redisCacheName": {
             "type": "string",
+            "defaultValue": "ap-umb-scal-cache",
             "metadata": {
                 "description": "Redis Cache Name"
             }
